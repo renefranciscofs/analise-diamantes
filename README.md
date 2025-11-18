@@ -27,8 +27,9 @@ Principais Etapas da Análise
    - Distribuição do preço e carat
 3. Análise Visual
    - Confecção de gráficos como:
-   - Histogramas
-   - Boxplots
+   - Histograma
+   - Boxplot
+   - Scatterplot
    - Gráfico de Barras
 4. Identificação de Padrões
 5. Conclusões
